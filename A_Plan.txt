@@ -1,0 +1,13 @@
+Title
+Picture
+Overview
+Body
+    SKLearn PolyFeatures 
+    Why it's Good
+        Things
+    Compare output to wxMaxima
+    Step by Step thru Pure Routine
+    How it Matches SKLearn 
+    wxMaxima Compare on Cascades
+
+Summary
