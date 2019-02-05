@@ -1,8 +1,8 @@
 # Polynomial Features Pure Python without Numpy or Scipy or SKLearn: Also added to Machine Learning Module repo
 
-![Polynomial Features Pure Python](hhttps://github.com/ThomIves/PolynomialFeatures/blob/master/Machine_Learning_Module_Polynomial_Tools_Class_Post_Title.png)
+![Polynomial Features Pure Python](https://github.com/ThomIves/PolynomialFeatures/blob/master/Machine_Learning_Module_Polynomial_Tools_Class_Post_Title.png)
 
-This is a new class that is also being added to the ![Machine Learning Module Pure Python Ripo](https://github.com/ThomIves/MachineLearningModulePurePy). 
+This is a new class that is also being added to the [Machine Learning Module Pure Python Ripo](https://github.com/ThomIves/MachineLearningModulePurePy). 
 
 This new class is covered in greater detail in a blog posts from [Integrated Machine Learning & AI Blog](https://integratedmlai.com/pure-python-machine-learning-module-polynomial-tools-class/). This repo contains this polynomial class in isolation (with help from the LinearAlgebraPurePython.py module) and mimics the functionality of sklearn's PolynomialFeatures class.
 
